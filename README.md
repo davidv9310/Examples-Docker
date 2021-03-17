@@ -1,5 +1,5 @@
 # Examples-Docker
-Learning phase with docker and github
+Learning phase with github and Python ML examples
 
 
 On GitHub, saved changes are called commits. 
